@@ -8,8 +8,6 @@ def resize(im, new_width):
     resized_image = im.resize((new_width,new_height))
     return resized_image
 
-
-
 files = os.listdir("assets")
 extensions = ['jpg','png','jpeg']
 for file in files:
