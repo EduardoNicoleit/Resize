@@ -3,6 +3,7 @@
  
  Just create a Directory called "assets" and drop all the photos inside
  
+ 
  Run the code.
  
  
