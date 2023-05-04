@@ -16,7 +16,7 @@ for file in files:
         im = Image.open('assets/'+file)
         im_resized = resize(im, 600)
         new_dir = 'resized_images'
-        
+       
         
         if not os.path.exists(new_dir):
             os.makedirs(new_dir)
